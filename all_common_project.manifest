@@ -2,19 +2,19 @@
   "packageUrl": "https://raw.githubusercontent.com/devjohnwick9z/sv_hotupdates/master//",
   "remoteManifestUrl": "https://raw.githubusercontent.com/devjohnwick9z/sv_hotupdates/master/all_common_project.manifest",
   "remoteVersionUrl": "https://raw.githubusercontent.com/devjohnwick9z/sv_hotupdates/master/all_common_version.manifest",
-  "version": "4",
+  "version": "6",
   "assets": {
     "src/cocos2d-jsb.jsc": {
       "size": 1662500,
       "md5": "a7999cca05e051313b568ffd647bbb83"
     },
     "src/project.jsc": {
-      "size": 334580,
-      "md5": "67099857acfb698f1827b0ee8259b160"
+      "size": 334836,
+      "md5": "610a3e61203fc1dbf7f7027abfa2781d"
     },
     "src/settings.jsc": {
-      "size": 6668,
-      "md5": "6724f89ac244a896d42803995ac08442"
+      "size": 6540,
+      "md5": "7a5dee0b9b1c2283a58710562e4d0d66"
     },
     "res/import/00/004dcd20-0a2b-4be2-8de4-4a356b346084.json": {
       "size": 200,
@@ -60,10 +60,6 @@
       "size": 2716,
       "md5": "de088fc75276b0d0961f688ef5cf11cd"
     },
-    "res/import/1a/1a32fc76-f0bd-4f66-980f-56929c0ca0b3.json": {
-      "size": 192,
-      "md5": "dc1f476506726fc4502265beb7f0fe38"
-    },
     "res/import/21/216463c8-132d-45e2-9ed4-8185325c9b9d.json": {
       "size": 7364,
       "md5": "b63904d32f09bce1ac4288dba058d262"
@@ -107,10 +103,6 @@
     "res/import/3a/3a7bb79f-32fd-422e-ada2-96f518fed422.json": {
       "size": 136,
       "md5": "389520dd5283c41d5356425eee35673e"
-    },
-    "res/import/3b/3b02758e-e825-48ce-a424-21cb2aa725ee.json": {
-      "size": 1204,
-      "md5": "150bb2d03d76a7d21e54e9b9b7cb786c"
     },
     "res/import/3b/3b4f3ad9-9c8f-4509-8d99-e11d011414f0.json": {
       "size": 4012,
@@ -248,10 +240,6 @@
       "size": 5916,
       "md5": "b4f44b5363860078a62f7a131b68c7d8"
     },
-    "res/import/9d/9d60001f-b5f4-4726-a629-2659e3ded0b8.json": {
-      "size": 76,
-      "md5": "a9bb3175589300d03fdbd4dd5c42fdde"
-    },
     "res/import/9e/9e49cf21-c1a1-4448-9ee8-b0a10dd28bcd.json": {
       "size": 212,
       "md5": "13be8293544b167aa18bf1aa93d675dd"
@@ -337,8 +325,8 @@
       "md5": "51475050bffd8a8a5cb6f49a548233bc"
     },
     "res/import/cf/cfed9aa6-fad9-4098-a870-f9e9a43361a7.json": {
-      "size": 4156,
-      "md5": "eca71bf57956b13cc3132e78eb31b01d"
+      "size": 4288,
+      "md5": "44b8a4da10a6862c9cda5b6484f76320"
     },
     "res/import/cf/cfef78f1-c8df-49b7-8ed0-4c953ace2621.json": {
       "size": 76,
@@ -409,8 +397,8 @@
       "md5": "91cf839e857b33a009d96c6a84c54f18"
     },
     "res/import/f0/f03ac08e-2fa2-4a2c-ad69-bb0801127a44.json": {
-      "size": 15248,
-      "md5": "3fa2dfd070050b459bb36ab64ecb3468"
+      "size": 15200,
+      "md5": "2d0e450caa677382562723bcf04c3504"
     },
     "res/import/f0/f0d91c90-24a6-4f8d-b469-aa8b9167d31f.json": {
       "size": 3236,
@@ -455,10 +443,6 @@
     "res/raw-assets/99/99170b0b-d210-46f1-b213-7d9e3f23098a.png": {
       "size": 1184,
       "md5": "c0b2a1143201a14447d43240a209db43"
-    },
-    "res/raw-assets/9d/9d60001f-b5f4-4726-a629-2659e3ded0b8.png": {
-      "size": 2072,
-      "md5": "7d07d6b71bca42f3df05335c8b3de2f5"
     },
     "res/raw-assets/b4/b43ff3c2-02bb-4874-81f7-f2dea6970f18.png": {
       "size": 1120,
