@@ -2,15 +2,15 @@
   "packageUrl": "https://raw.githubusercontent.com/devjohnwick9z/sv_hotupdates/master//",
   "remoteManifestUrl": "https://raw.githubusercontent.com/devjohnwick9z/sv_hotupdates/master/all_common_project.manifest",
   "remoteVersionUrl": "https://raw.githubusercontent.com/devjohnwick9z/sv_hotupdates/master/all_common_version.manifest",
-  "version": "3",
+  "version": "4",
   "assets": {
     "src/cocos2d-jsb.jsc": {
       "size": 1662500,
       "md5": "a7999cca05e051313b568ffd647bbb83"
     },
     "src/project.jsc": {
-      "size": 334648,
-      "md5": "ef0ecba187d4fb84906ceb8c9a6dcf32"
+      "size": 334580,
+      "md5": "67099857acfb698f1827b0ee8259b160"
     },
     "src/settings.jsc": {
       "size": 6668,
@@ -409,8 +409,8 @@
       "md5": "91cf839e857b33a009d96c6a84c54f18"
     },
     "res/import/f0/f03ac08e-2fa2-4a2c-ad69-bb0801127a44.json": {
-      "size": 15200,
-      "md5": "2d0e450caa677382562723bcf04c3504"
+      "size": 15248,
+      "md5": "3fa2dfd070050b459bb36ab64ecb3468"
     },
     "res/import/f0/f0d91c90-24a6-4f8d-b469-aa8b9167d31f.json": {
       "size": 3236,
